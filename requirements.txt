@@ -1,0 +1,9 @@
+streamlit==0.67.1
+numpy==1.19.2
+umap-learn==0.4.6
+hdbscan==0.8.26
+pandas==1.1.2
+scikit_learn==0.23.2
+plotly==4.11.0
+graphviz
+nltk==3.5
